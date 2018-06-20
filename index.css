@@ -1,0 +1,99 @@
+
+h1 {
+  text-align: center;
+  color: gold;
+  background: chocolate;
+  padding: 20px;
+}
+	
+body {
+  background: linear-gradient( moccasin,goldenrod,chocolate);
+  padding: 25px;
+  font-family: verdana;
+}
+
+.column1 {
+  width: 40%;
+  float: left;
+  
+}
+.column2 {
+  width: 40%;
+  float: right;
+}
+
+.a {
+ 
+ h10 {
+   color: moccasin;
+   padding: 25px;
+   font-size: 25px;
+ } 
+}
+ img{
+   max-width: 250%;
+  
+ }
+ h6 {
+   color: moccasin;
+   padding: 25px;
+   font-size: 20px;
+ }
+ h7 {
+   color: gold;
+   padding: 25px;
+   font-size: 25px;
+ }
+ 
+ h8 {
+   color: moccasin;
+   padding: 25px;
+   font-size: 25px;
+ }
+ 
+ h9 {
+   color: gold;
+   padding: 25px;
+   font-size: 25px;
+ } 
+ .photo {
+   transform: rotatedeg);
+ }
+ 
+ h2 {
+   color: gold;
+   padding: 25px;
+ }
+ 
+h4 {
+  color: moccasin;
+  padding:25px;
+  font-size: 20px;
+  
+
+} 
+ 
+ 
+ 
+ h10 {
+    color: moccasin;
+   padding: 25px;
+   font-size: 25px;
+ }
+ h3 {
+   color: chocolate;
+   padding:25px ;
+   font-size: 20px
+ }
+ 
+ h5 {
+   color: chocolate;
+   padding:25px ;
+   font-size: 20px;
+ }
+ .photo {
+   padding: 10px;
+   margin-bottom: 10px;
+   border: 20px dashed moccasin
+   ;
+ }
