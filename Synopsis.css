@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: gold;
+  background: linear-gradient(to top left, moccasin,goldenrod,chocolate);
+  padding: 2px;
+}
+body {
+  background: linear-gradient(to bottom right, chocolate,goldenrod,moccasin)
+}
+.column1 {
+  float: none;
+}
+  
+ body {
+   text-align: center;
+   color: gold;
+   font: linear-gradient(to bottom right, moccasin,goldenrod,chocolate)
+
+   
+ }
