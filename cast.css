@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  background: linear-gradient(moccasin,goldenrod,chocolate);
+  color: black;
+  padding: 5px;
+}
+	
+body {
+  background: linear-gradient(moccasin,goldenrod,chocolate);
+  padding:15px;
+  font-family: Verdana;
+}
+
+.column1 {
+  width: 48%;
+  float: left;
+}
+
+.column2 {
+  width: 48%;
+  float: right;
+}
