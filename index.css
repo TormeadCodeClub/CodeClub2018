@@ -67,10 +67,8 @@ body {
  
 h4 {
   color: moccasin;
-  padding:25px;
+  padding-top:20px;
   font-size: 20px;
-  
-
 } 
  
  
@@ -91,9 +89,22 @@ h4 {
    padding:25px ;
    font-size: 20px;
  }
+ 
  .photo {
    padding: 10px;
    margin-bottom: 10px;
    border: 20px dashed moccasin
    ;
  }
+ 
+ 
+.box {
+	background-color: white;
+	border: solid 1px #ddd;
+	border-radius: 20px;
+	padding: 20px;
+}
+.title {
+	font-size: 16t;
+	font-weight: bold;
+}
